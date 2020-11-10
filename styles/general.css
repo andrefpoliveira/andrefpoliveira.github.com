@@ -57,11 +57,11 @@ img {
     border-radius: 4%;
 }
 
-.label {
-   border-radius: 20%;
-}
-
 .python {
     background-color: #407eaf;
     color: white;
+}
+
+.noHover{
+    pointer-events: none;
 }
