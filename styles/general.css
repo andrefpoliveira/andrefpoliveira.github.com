@@ -62,6 +62,36 @@ img {
     color: white;
 }
 
+.javaScript {
+    background-color: #f1e05a;
+    color: black;
+}
+
+.java {
+    background-color: #b07219;
+    color: white;
+}
+
+.c {
+    background-color: #555555;
+    color: white;
+}
+
+.assembly {
+    background-color: #6e4c13;
+    color: white;
+}
+
+.prolog {
+    background-color: #752a3e;
+    color: white;
+}
+
+.cplus {
+    background-color: #f34b7d;
+    color: white;
+}
+
 .noHover{
     pointer-events: none;
 }
