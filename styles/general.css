@@ -95,3 +95,19 @@ img {
 .noHover{
     pointer-events: none;
 }
+
+ul {
+    justify-content: center;
+    display: flex;
+    margin: auto;
+}
+
+li {
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.social, a:hover, a:focus, a:active {
+    text-decoration: none;
+    color: white;
+}
