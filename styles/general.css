@@ -133,3 +133,7 @@ li {
     text-decoration: none;
     color: white;
 }
+
+.github:hover {
+    color: blue;
+}
