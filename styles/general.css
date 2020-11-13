@@ -118,13 +118,13 @@ figcaption {
     pointer-events: none;
 }
 
-ul {
+.media ul {
     justify-content: center;
     display: flex;
     margin: auto;
 }
 
-li {
+.media li {
     margin-left: 10px;
     margin-right: 10px;
 }
