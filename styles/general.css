@@ -135,5 +135,14 @@ figcaption {
 }
 
 .github:hover {
-    color: blue;
+    color: #f14668;
+}
+
+.social {
+    border-radius: 5px;
+    transition: 0.3s;
+    padding: 2px 10px;
+}
+.social:hover {
+    background-color: #444444;
 }
