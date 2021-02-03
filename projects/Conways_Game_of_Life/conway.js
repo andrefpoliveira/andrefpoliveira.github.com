@@ -3,7 +3,7 @@ var cols = 112;
 
 let started = false;
 let timer;
-let evolutionSpeed = 200;
+let evolutionSpeed = 50;
 
 let currGen = [rows];
 let nextGen = [rows];
