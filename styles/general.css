@@ -419,7 +419,7 @@ a.left:hover:before {
     border-radius: 20px;
 }
 
-.project-url {
+.projectExternalLink {
     width: 20px;
     color: #858c97;
     transition: all 0.3s ease 0s;
@@ -427,7 +427,7 @@ a.left:hover:before {
     margin-top: 0.5rem;
 }
 
-.project-url:hover {
+.projectExternalLink:hover {
     color: #ced1d5;
 }
 
