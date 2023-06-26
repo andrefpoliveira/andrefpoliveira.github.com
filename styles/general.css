@@ -419,6 +419,18 @@ a.left:hover:before {
     border-radius: 20px;
 }
 
+.project-url {
+    width: 20px;
+    color: #858c97;
+    transition: all 0.3s ease 0s;
+    margin-right: 0.5rem;
+    margin-top: 0.5rem;
+}
+
+.project-url:hover {
+    color: #ced1d5;
+}
+
 .project-logo {
     width: 20px;
     fill: #858c97;
@@ -429,6 +441,10 @@ a.left:hover:before {
 
 .project-logo:hover {
     fill: #ced1d5;
+}
+
+.project-description {
+    text-align: justify;
 }
 
 /* Contact */
